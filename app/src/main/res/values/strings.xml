@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stock Analyzer</string>
+    <string name="ticker_symbol">Ticker Symbol</string>
+    <string name="search">Search</string>
+    <string name="today_s_trending_stocks">Today\'s Trending Stocks</string>
+    <string name="get_stock_data">Get Stock Data</string>
+    <string name="retrieve_trending_stocks">Retrieve Trending Stocks</string>
+    <string name="find_stock_data">Find Stock Data</string>
+    <string name="enter_ticker_symbol">Enter Ticker Symbol</string>
+    <string name="title_activity_show_data">showData</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="showdata">showData</string>
+    <string name="show_data">Show Data</string>
+</resources>
