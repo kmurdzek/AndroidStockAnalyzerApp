@@ -117,7 +117,7 @@ public class Loader_2 extends AsyncTask<String,Integer, ArrayList<String>> {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String>  headers = new HashMap<String, String>();
-                headers.put("x-rapidapi-key", "f713c8ca8dmsh3facc2d11a4d8c1p1a61e6jsn68de2705e792");
+                headers.put("x-rapidapi-key", "**********************"); //must use your own api key
                 headers.put("x-rapidapi-host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
 
                 return headers;
